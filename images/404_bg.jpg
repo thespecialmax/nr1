@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Profi Romania</title>
+<link rel="SHORTCUT ICON" href="/favicon.ico">
+<link href="../css/custom_fonts.css" rel="stylesheet" type="text/css" media="screen">
+<style>
+	h2 {color:#fff; font-size:12px;}
+	p, a {color:#fff;}
+	* {color:#fff;font-family:Arial;font-size:12px;}
+</style>
+</head>
+<body style="background-color: #E50003;">
+	<div id="banner" style="position:absolute;width:300px; height: 245px;top:50%;left:50%;margin-left:-150px;margin-top: -122px;">
+		<div style="margin: auto; width:100%; height:100%; background:#E50003 url(404_bg.jpg) center center no-repeat;">
+		<div style="float:left;width:40%;margin-top:140px;font-size:60px;font-family:'TitilliumMaps26L250wt';">404</div>
+		<div style="float:right;width:60%;margin-top:140px;"><h2 style="font-weight:normal;"><span style="font-size:17px;font-weight:bold">WoooW!!!</span><br> Nu cred ca mai avem pagina asta sau e indisponibila momentan.</h2>
+		<p>Mergi la <a href="/">pagina principala</a>.</p>
+		</div>			
+		</div>
+	</div>
+
+</body>
+</html>
